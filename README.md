@@ -4,7 +4,7 @@
 ![img1](https://user-images.githubusercontent.com/32981522/177357343-3f36c3a7-33dc-4a02-a345-2ea0e4912ae0.gif)
 <br />
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My portfolio:
-<a href="https://trafalgarlaw-d.github.io/portafolio/" target="_blank">Ver mi Portafolio</a>
+<a href="https://trafalgarlaw-d.github.io/portafolio/" target="_blank">link to my portfolio</a>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me:
 ```javascript
