@@ -1,7 +1,7 @@
 ### Hi, I'm Axel Vargas Cárdenas👋😃
 
 *************
-![img1](https://user-images.githubusercontent.com/32981522/183271261-3c2a800d-c1a3-4248-9c2f-4b4c158a7304.gif)
+![img1](https://user-images.githubusercontent.com/32981522/183271326-5c80abd9-a863-420e-bbd2-389f6418011f.gif)
 <br />
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My portfolio:
 <a href="https://portafolio027.web.app/" target="_blank">link to my portfolio</a>
